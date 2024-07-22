@@ -1,0 +1,6 @@
+require("arbab")
+require("arbab/lazy")
+require("after/plugins/telescope")
+require("after/plugins/colorscheme")
+require("after/plugins/treesitter")
+require("after/plugins/lsp")
