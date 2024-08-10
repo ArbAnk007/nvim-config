@@ -1,6 +1,6 @@
 require("mason").setup()
 require("mason-lspconfig").setup({
-  ensure_installed = {"pyright", "gopls"}
+  ensure_installed = {"pyright", "gopls", "html", "tsserver", "tailwindcss", "cssls", "arduino_language_server"}
 })
 
 require("lspconfig").pyright.setup {}

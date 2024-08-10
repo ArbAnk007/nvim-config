@@ -44,7 +44,10 @@ require("lazy").setup({
     {'hrsh7th/cmp-cmdline'},
     {'hrsh7th/nvim-cmp'},
     {'hrsh7th/cmp-vsnip'},
-    {'hrsh7th/vim-vsnip'}
+    {'hrsh7th/vim-vsnip'},
+    {'mbbill/undotree'},
+    {'nvim-tree/nvim-tree.lua'},
+    {'nvim-tree/nvim-web-devicons'},
   },
 
   -- Configure any other settings here. See the documentation for more details.
